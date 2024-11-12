@@ -1,7 +1,7 @@
 Glitch: https://task-manager-cz.glitch.me
 
 ## Task Manager App
-This to-do list application helps users efficiently manage their tasks by allowing them to add, 
+This an independent to-do list application helps users efficiently manage their tasks by allowing them to add, 
 prioritize, set deadlines, and delete tasks. 
 It provides a clean, responsive interface with real-time validation, 
 ensuring tasks are organized and deadlines are managed effectively.
